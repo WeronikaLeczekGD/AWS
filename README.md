@@ -22,6 +22,8 @@ I wrote one script doing all tasks:
 
 ## Ad a
 
+Creating VPC, Subnet, Elastic Container Registry (ECR), EC2 instance, public IP address for EC2 instance, Security Groups:
+
 ```
 #!/bin/bash
 
